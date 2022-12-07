@@ -2,6 +2,8 @@
 
 <img src="https://drive.google.com/uc?export=view&id=1U4AMcpW-16E8S05BObe3C8mjb6QZR0Rx"/>
 
+## Review
+We used Twitter API to stream tweets from @ethprice_ user which is an account that reports Ethereum prices every hour.
 
 ## :octocat:	Team Memebers
 
